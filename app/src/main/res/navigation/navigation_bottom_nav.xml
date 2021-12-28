@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_bottom_nav"
+    app:startDestination="@id/anecdotesContainerFragment">
+
+    <fragment
+        android:id="@+id/anecdotesContainerFragment"
+        android:name="com.tomofeev.localanecdotes.anecdotesContainer.AnecdotesContainerFragment"
+        android:label="fragment_anecdotes_container"
+        tools:layout="@layout/fragment_anecdotes_container" />
+    <fragment
+        android:id="@+id/favouriteAnecdotesFragment"
+        android:name="com.tomofeev.localanecdotes.favouriteAnecdotes.FavouriteAnecdotesFragment"
+        android:label="fragment_favourite_anecdotes"
+        tools:layout="@layout/fragment_favourite_anecdotes" />
+</navigation>
