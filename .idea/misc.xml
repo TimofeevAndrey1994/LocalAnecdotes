@@ -4,11 +4,16 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/atimofeev/AndroidStudioProjects/LocalAnecdotes/app/src/main/res/layout/activity_main.xml" value="0.22282608695652173" />
+        <entry key="..\:/Users/atimofeev/AndroidStudioProjects/LocalAnecdotes/app/src/main/res/layout/fragment_anecdote_folders.xml" value="0.1" />
+        <entry key="..\:/Users/atimofeev/AndroidStudioProjects/LocalAnecdotes/app/src/main/res/layout/fragment_anecdote_list.xml" value="0.16312056737588654" />
         <entry key="..\:/Users/atimofeev/AndroidStudioProjects/LocalAnecdotes/app/src/main/res/layout/fragment_anecdotes_container.xml" value="0.22282608695652173" />
         <entry key="..\:/Users/atimofeev/AndroidStudioProjects/LocalAnecdotes/app/src/main/res/layout/fragment_favourite_anecdotes.xml" value="0.22282608695652173" />
         <entry key="..\:/Users/atimofeev/AndroidStudioProjects/LocalAnecdotes/app/src/main/res/menu/bottom_nav_menu.xml" value="0.30520833333333336" />
       </map>
     </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/tomofeev/localanecdotes/anecdotesContainer/AnecdotesContainerFragment.kt" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />

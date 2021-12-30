@@ -3,7 +3,7 @@
 
 
     <item
-        android:id="@+id/anecdotesContainerFragment"
+        android:id="@+id/anecdotesContainer"
         android:title="Анекдоты" />
 
     <item
